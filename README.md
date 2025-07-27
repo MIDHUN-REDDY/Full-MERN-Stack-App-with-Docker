@@ -168,5 +168,18 @@ docker network prune
 ⚠️ Use with caution — this clears everything from your local Docker.
 
 # 🙌 Author
-Made by Kakanuru Midhun Reddy
-GitHub: MIDHUN-REDDY
+  Made by Kakanuru Midhun Reddy<br>
+  GitHub: MIDHUN-REDDY<br>
+  
+# 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+Would you like me to:
+
+- Convert this setup into a downloadable `README.md` file?
+- Help you write a `docker-compose.yml` file to simplify everything?
+
+
