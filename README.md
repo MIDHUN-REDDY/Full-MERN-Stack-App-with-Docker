@@ -13,3 +13,8 @@ docker images           # Show available Docker images
 docker ps -a            # Show all containers (even stopped ones)
 docker network ls       # List existing Docker networks
 docker volume ls        # List existing volumes
+
+
+
+
+👉 These commands help verify your system's Docker state before starting.
